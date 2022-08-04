@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid f9271114-2ea9-4e9b-99ac-4fce51e2c0c9)
+
+  (paper "A4")
+
+  (title_block
+    (title "Jade Nano+")
+    (date "2021-12-16")
+    (rev "0.0.2")
+    (company "GroundStudio.ro")
+    (comment 1 "Schematic: Victor")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "REV0.0.2:\n\n-removed R11 and R12\n-added revision history for schematic"
+    (at 19.05 38.1 0)
+    (effects (font (size 2.032 2.032)) (justify left bottom))
+    (uuid 6199972b-f6b4-475c-9aed-785173869db3)
+  )
+)
