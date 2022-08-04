@@ -2,21 +2,24 @@ GroundStudio Jade Nano+
 ====================================
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/2500-jade-nano.html)
+
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
+Description
+-------------------
 Development board based on ATmega328PB and HT42B534-2 for USB comunication.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_NanoPlus/tree/main/Documentation/) -- Pinout.
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_NanoPlus/tree/main/Hardware/) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [REV0.0.2]:
-- removed R11 and R12
+- [REV0.0.2]:
+  - removed R11 and R12
 
 License
 -------------------
