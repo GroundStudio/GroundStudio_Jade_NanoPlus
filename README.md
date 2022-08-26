@@ -1,5 +1,6 @@
 GroundStudio Jade Nano+
 ====================================
+[![Nano+ cropat la 150 h](https://user-images.githubusercontent.com/77836107/186914644-e481405f-a3e3-41f7-b719-c3a1ae727910.png)](https://ardushop.ro/ro/home/2500-jade-nano.html)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/2500-jade-nano.html)
 
