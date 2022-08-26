@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on ATmega328PB and HT42B534-2 for USB comunication.
+ATMEGA328PB based development board featuring picoPower® technology for better power management, Peripheral Touch Controller (PTC), 32kBytes of In-System Self-Programmable Flash program memory,  1kBytes EEPROM, 2kBytes Internal SRAM, 9 PWM Channels, 22 Digital Pins, 2 USART, 2 SPI, I²C  and 8 channel 10 bit ADC Pins and HT42B534-2 for USB comunication.
 
 Contents
 -------------------
